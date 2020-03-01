@@ -1,0 +1,18 @@
+body{
+    font-family: 'Abril Fatface', ;
+}
+h1{
+    font-size: larger;
+}
+.name-highlight{
+    color:blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 10%;
+}
